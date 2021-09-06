@@ -1,0 +1,241 @@
+
+.promo-bar{
+ 
+    background: rgb(131, 72, 173);
+     color: rgb(255, 255, 255); 
+    width: 100%;
+    z-index: 89;
+    text-align: center;
+    font-size: 14px;
+    position: relative;
+    left: 0;
+    height: 50px;
+    padding-top: 9px;
+    margin-top: 70px;
+    text-decoration: none;
+    
+}
+.section.section-colour-dark{
+    background-color:#484a56 url("https://www.fitnessfirst.net.in/sites/all/themes/fitnessfirst_v2/images/bg-dark-stripes.png") no-repeat scroll left top;
+   
+    color:#fff;
+
+}
+@media screen and (min-width: 640px){
+.section-promo {
+    margin-top:50px;
+}
+.section{
+    width:100%;
+   
+}
+}
+.card{
+    background-color:#484a56!important;
+    padding:20px;
+    
+}
+.section1{
+    width:100%;
+    margin-top:250px;
+    text-align:center;
+}
+
+@media (max-width:568px) {
+  .section1{
+    margin-top: 700px;
+  }
+  
+}
+.section-insta{
+  width:100%;
+  margin-top:30px;
+  text-align:center;
+}
+.section1 h2{
+   
+    text-align:center;
+    font-size:3rem;
+    color: #343538;
+    margin: 0 0 20px 0;
+    text-transform: uppercase;
+    font-weight:normal;
+    font-family: 'SohoGothicPro-Regular';
+}
+.section1 p{
+    margin: 0 10% 3rem 10%;
+}
+.btn{
+    margin-top:-40px;
+}
+.gallery{
+    background: #1c1c1c;
+    overflow: hidden;
+}
+.gallery .viewport {
+    background: url("https://www.fitnessfirst.net.in/sites/default/file…les/style_1200x500/public/club1.jpg?itok=1WNoapWy") center center no-repeat;
+}
+
+
+
+
+
+/* REMOVE THIS, USE YOUR OWN  */
+html,body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, Sans-serif;
+  
+  }
+  .dummy_page {
+    height: 200px;
+    width: 100%;
+    background-color: #f0f0f0;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 60px 0px;
+  }
+  /* STYLES SPECIFIC TO FOOTER  */
+  .footer {
+    width: 100%;
+    position: relative;
+    height: auto;
+    background-color: #070617;
+  }
+  .footer .col {
+    width: 190px;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0px 20px 20px 20px;
+  }
+  .footer .col h1 {
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 17px;
+    padding: 20px 0px 5px 0px;
+    color: rgba(255,255,255,0.2);
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.250em;
+  }
+  .footer .col ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .footer .col ul li {
+    color: #999999;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: bold;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+    transition: .2s;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+  }
+  .social ul li {
+    display: inline-block;
+    padding-right: 5px !important;
+  }
+  
+  .footer .col ul li:hover {
+    color: #ffffff;
+    transition: .1s;
+    -webkit-transition: .1s;
+    -moz-transition: .1s;
+  }
+  .clearfix {
+    clear: both;
+  }
+  @media only screen and (min-width: 1280px) {
+    .contain {
+      width: 1200px;
+      margin: 0 auto;
+    }
+  }
+  @media only screen and (max-width: 1139px) {
+    .contain .social {
+      width: 1000px;
+      display: block;
+    }
+    .social h1 {
+      margin: 0px;
+    }
+  }
+  @media only screen and (max-width: 950px) {
+    .footer .col {
+      width: 33%;
+    }
+    .footer .col h1 {
+      font-size: 14px;
+    }
+    .footer .col ul li {
+      font-size: 13px;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+      .footer .col {
+        width: 50%;
+      }
+      .footer .col h1 {
+        font-size: 14px;
+      }
+      .footer .col ul li {
+        font-size: 13px;
+      }
+  }
+  @media only screen and (max-width: 340px) {
+    .footer .col {
+      width: 100%;
+    }
+  }
+ 
+  @media  screen and (max-width: 571px) {
+   .w-100{
+     height: 300px;
+   }
+  }
+  @media  screen and (max-width: 300px) {
+    .w-100{
+     
+      height: 200px;
+    }
+    .promo-bar{
+      height: 80px;
+    }
+    .promo-bar p{
+    
+      font-size: 10px;
+      margin-top: 35px;
+     text-align: center;
+    }
+   }
+  .me-auto{
+    float: left;
+  }
+  .nav-link{
+    color: darkcyan!important;
+    font-weight: 600;
+    float: right;
+  }
+  .navbar-brand{
+    margin-left: 2rem;
+    font-weight: 600!important;
+    font-style: oblique;
+    font-size: xx-large!important;
+  
+  }
+ 
+  .nav-link.a:hover{
+    color: red;
+  }
+  .nav-link a{
+    color: darkcyan!important;
+    text-decoration: none!important;
+  }
