@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/abhinash199/gym-fitness.git/static/css/main.6f5e4fe3.chunk.css",
+    "main.js": "/abhinash199/gym-fitness.git/static/js/main.32cac9c3.chunk.js",
+    "main.js.map": "/abhinash199/gym-fitness.git/static/js/main.32cac9c3.chunk.js.map",
+    "runtime-main.js": "/abhinash199/gym-fitness.git/static/js/runtime-main.0ab65ad1.js",
+    "runtime-main.js.map": "/abhinash199/gym-fitness.git/static/js/runtime-main.0ab65ad1.js.map",
+    "static/css/2.818011ed.chunk.css": "/abhinash199/gym-fitness.git/static/css/2.818011ed.chunk.css",
+    "static/js/2.7b07332a.chunk.js": "/abhinash199/gym-fitness.git/static/js/2.7b07332a.chunk.js",
+    "static/js/2.7b07332a.chunk.js.map": "/abhinash199/gym-fitness.git/static/js/2.7b07332a.chunk.js.map",
+    "static/js/3.78dc87bb.chunk.js": "/abhinash199/gym-fitness.git/static/js/3.78dc87bb.chunk.js",
+    "static/js/3.78dc87bb.chunk.js.map": "/abhinash199/gym-fitness.git/static/js/3.78dc87bb.chunk.js.map",
+    "index.html": "/abhinash199/gym-fitness.git/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/abhinash199/gym-fitness.git/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6f5e4fe3.chunk.css.map": "/abhinash199/gym-fitness.git/static/css/main.6f5e4fe3.chunk.css.map",
+    "static/js/2.7b07332a.chunk.js.LICENSE.txt": "/abhinash199/gym-fitness.git/static/js/2.7b07332a.chunk.js.LICENSE.txt",
+    "static/media/pic1.de803a5f.jpg": "/abhinash199/gym-fitness.git/static/media/pic1.de803a5f.jpg",
+    "static/media/pic2.83d78091.jpg": "/abhinash199/gym-fitness.git/static/media/pic2.83d78091.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab65ad1.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.7b07332a.chunk.js",
+    "static/css/main.6f5e4fe3.chunk.css",
+    "static/js/main.32cac9c3.chunk.js"
+  ]
+}
